@@ -63,10 +63,18 @@
 <h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+
+</p>
+
+<p align="center">
   <a href="https://github.com/pranamv">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pranamv&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
 </p>
+
+![Top language](https://stats.pphat.top/languages?username=pranamv)
+<br/>
+
 
 ![Top language](https://stats.pphat.top/languages?username=pranamv)
 <br/>
